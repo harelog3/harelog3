@@ -40,8 +40,10 @@
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
+
 ### Other ways of contact ⌕
 <br>
 
+- Check my [webpage](https://harelolguin.dev)
 - Check my [links](https://harelog3.github.io/bio-links/)
 - My gmail is _harelolguin22@gmail.com_ 
