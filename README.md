@@ -13,7 +13,7 @@
 - Love to learn 🤓
 - Guitarist and composer in the Thrash Metal band [Phantom](https://linktr.ee/phantomthrash) 🎸
 - Music enthusiast 🎶, i also love dogs 🐕
-- Currently working at [InovenTI](https://www.linkedin.com/company/inoventi/) as a Fullstack Intern
+- Currently working at [Toshiba Global Commerce Solutions](https://commerce.toshiba.com/) as a Fullstack Intern
 
 <h2><img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" height="60"> Coding Skills</h2>
 
